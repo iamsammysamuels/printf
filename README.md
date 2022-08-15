@@ -54,4 +54,4 @@ printf("Len:[%d]\n", len2);
 
 _printf("Unknown:[%r]\n");
 
-# THis printf function was developed by samuel from ALX cohort 0.
+# THis printf function was developed by samuel from ALX cohort 7.
